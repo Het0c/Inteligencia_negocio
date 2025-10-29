@@ -1,1 +1,4 @@
 # Inteligencia_negocio
+
+Este estudio analiza los factores que influyen en el éxito financiero de videojuegos a través de técnicas de inteligencia de negocios. Utilizando un dataset de 500 registros con métricas de rendimiento de juegos (usuarios activos, duración de sesión, compras en el juego, menciones en redes sociales, etc.), aplicamos modelos de regresión para predecir ingresos, clasificación para identificar promociones con influencers exitosas, y clustering para segmentar juegos por patrones de comportamiento. Los hallazgos revelan que la duración de sesión y las compras en el juego son predictores clave de ingresos (R²=0.85), mientras que las menciones en redes sociales son determinantes para el éxito de promociones con influencers (F1=0.92). Tres clusters naturales emergen, diferenciando juegos casuales, hardcore y de nicho. Estos insights permiten optimizar estrategias de marketing y desarrollo.
+
